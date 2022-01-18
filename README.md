@@ -1,1 +1,1 @@
-# Demo repository for connecting a visual studio project with git
+# Demo repository for connecting a visual studio project with github
