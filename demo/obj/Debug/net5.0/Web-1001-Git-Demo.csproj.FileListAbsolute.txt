@@ -1,0 +1,15 @@
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/bin/Debug/net5.0/Web-1001-Git-Demo.deps.json
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/bin/Debug/net5.0/Web-1001-Git-Demo.runtimeconfig.json
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/bin/Debug/net5.0/Web-1001-Git-Demo.runtimeconfig.dev.json
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/bin/Debug/net5.0/Web-1001-Git-Demo.dll
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/bin/Debug/net5.0/ref/Web-1001-Git-Demo.dll
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/bin/Debug/net5.0/Web-1001-Git-Demo.pdb
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.csproj.AssemblyReference.cache
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.AssemblyInfoInputs.cache
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.AssemblyInfo.cs
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.csproj.CoreCompileInputs.cache
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.dll
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/ref/Web-1001-Git-Demo.dll
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.pdb
+/Users/kunwar/Documents/WEB-1001/Web-1001-Git-Demo/obj/Debug/net5.0/Web-1001-Git-Demo.genruntimeconfig.cache

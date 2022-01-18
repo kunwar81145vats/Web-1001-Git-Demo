@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Web-1001-Git-Demo/1.0.0": {
+        "runtime": {
+          "Web-1001-Git-Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web-1001-Git-Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
